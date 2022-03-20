@@ -1,0 +1,12 @@
+
+Logistic-Regression-prior-to-Custom-Scaler
+https://www.dropbox.com/sh/fpc1dj0h7v82zfq/AADSaR5fwKk0mKWcYv28p2Iba?dl=0&lst=&preview=Absenteeism+Exercise+-+Logistic+Regression_prior+to+custom_scaler.ipynb
+
+Logistic-Regression-prior-to-Backward-Elimination
+https://www.dropbox.com/sh/fpc1dj0h7v82zfq/AADSaR5fwKk0mKWcYv28p2Iba?dl=0&lst=&preview=Absenteeism+Exercise+-+Logistic+Regression_prior_to_backward_elimination.ipynb
+
+Logistic-Regression
+https://www.dropbox.com/sh/fpc1dj0h7v82zfq/AADSaR5fwKk0mKWcYv28p2Iba?dl=0&lst=&preview=Absenteeism+Exercise+-+Logistic+Regression.ipynb
+
+Logistic-Regression-with-Comments
+https://www.dropbox.com/sh/fpc1dj0h7v82zfq/AADSaR5fwKk0mKWcYv28p2Iba?dl=0&lst=&preview=Absenteeism+Exercise+-+Logistic+Regression_with_comments.ipynb

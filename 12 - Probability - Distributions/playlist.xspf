@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/001%20Fundamentals%20of%20Probability%20Distributions.mp4</location>
+			<title>001 Fundamentals of Probability Distributions</title>
+			<duration>389260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/002%20Types%20of%20Probability%20Distributions.mp4</location>
+			<title>002 Types of Probability Distributions</title>
+			<duration>452372</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/003%20Characteristics%20of%20Discrete%20Distributions.mp4</location>
+			<title>003 Characteristics of Discrete Distributions</title>
+			<duration>120466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/004%20Discrete%20Distributions_%20The%20Uniform%20Distribution.mp4</location>
+			<title>004 Discrete Distributions_ The Uniform Distribution</title>
+			<duration>133608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/005%20Discrete%20Distributions_%20The%20Bernoulli%20Distribution.mp4</location>
+			<title>005 Discrete Distributions_ The Bernoulli Distribution</title>
+			<duration>207076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/006%20Discrete%20Distributions_%20The%20Binomial%20Distribution.mp4</location>
+			<title>006 Discrete Distributions_ The Binomial Distribution</title>
+			<duration>424368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/007%20Discrete%20Distributions_%20The%20Poisson%20Distribution.mp4</location>
+			<title>007 Discrete Distributions_ The Poisson Distribution</title>
+			<duration>327355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/008%20Characteristics%20of%20Continuous%20Distributions.mp4</location>
+			<title>008 Characteristics of Continuous Distributions</title>
+			<duration>432263</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/009%20Continuous%20Distributions_%20The%20Normal%20Distribution.mp4</location>
+			<title>009 Continuous Distributions_ The Normal Distribution</title>
+			<duration>248107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/010%20Continuous%20Distributions_%20The%20Standard%20Normal%20Distribution.mp4</location>
+			<title>010 Continuous Distributions_ The Standard Normal Distribution</title>
+			<duration>265265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/011%20Continuous%20Distributions_%20The%20Students%27%20T%20Distribution.mp4</location>
+			<title>011 Continuous Distributions_ The Students&#39; T Distribution</title>
+			<duration>149769</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/012%20Continuous%20Distributions_%20The%20Chi-Squared%20Distribution.mp4</location>
+			<title>012 Continuous Distributions_ The Chi-Squared Distribution</title>
+			<duration>142757</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/013%20Continuous%20Distributions_%20The%20Exponential%20Distribution.mp4</location>
+			<title>013 Continuous Distributions_ The Exponential Distribution</title>
+			<duration>195627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/014%20Continuous%20Distributions_%20The%20Logistic%20Distribution.mp4</location>
+			<title>014 Continuous Distributions_ The Logistic Distribution</title>
+			<duration>247247</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Dudeonyx/Downloads/%5BFreeCourseSite.com%5D%20Udemy%20-%20The%20Data%20Science%20Course%202022%20Complete%20Data%20Science%20Bootcamp/12%20-%20Probability%20-%20Distributions/015%20A%20Practical%20Example%20of%20Probability%20Distributions.mp4</location>
+			<title>015 A Practical Example of Probability Distributions</title>
+			<duration>903582</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
